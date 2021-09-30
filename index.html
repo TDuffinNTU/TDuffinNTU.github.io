@@ -10,38 +10,39 @@
 </head>
 <!-- Header -->
 
-<body class = "bg-blue-50">
-    <div class="bg-gray-800 py-10 px-10 flex flex-row place-content-between">
+<body class = "bg-gray-800">
+    <header class="bg-gray-800 py-10 px-10 flex flex-row place-content-between gap-x-20">
         <!-- navbar  -->
-        <h1 class="text-4xl text-white font-light">
+        <a href='/'><h1 class="text-4xl text-gray-300 font-light">
             Hello, World! I'm Tom <b>(WIP!)</b>
-        </h1>
-        <img src="content/github.svg" alt="" class="h-10">
-    </div>
+        </h1></a>
+        <a href="https://github.com/TDuffinNTU">
+            <img src="content/github.svg" alt="" class="h-10">
+        </a>
+    </header>
 
 
     <div class="">
         <div class="bg-gray-900 p-10">
-            <h1 class="text-white text-2xl font-extralight">About me</h1>
-            <div class="flex flex-row place-content-stretch justify-center mt-5 mx-60 space-x-20">
-                <img src="content/profile.jpg" alt="" class="h-80 rounded-full">
-                <p1 class="text-justify text-lg text-white">
-                    I'm a new grad from NTU<br>
-                    Blah blah blah
+            <h1 class="text-gray-300 text-2xl font-extralight">About me</h1>
+            <div class="flex flex-wrap place-content-stretch md:justify-start justify-center mt-5 pt-10 gap-10 px-10">
+                <img src="content/profile.jpg" alt="" class="h-40 w-40 rounded-full">
+                <p1 class="text-justify text-lg text-gray-300">
+                    I'm a new grad from NTU Blah blah blah
                 </p1>
             </div>
         </div>
 
         <div class = "bg-gray-800 p-10" >
-            <h1 class="text-white text-2xl font-extralight">
+            <h1 class="text-gray-300 text-2xl font-extralight">
                 My Technology Experience
             </h1>
-            <div class="flex flex-row place-content-around px-96 pt-16 pb-20">
-                <img src="content/Python.svg" alt="" class="h-20">
-                <img src="content/Csharp.svg" alt="" class="h-20">
-                <img src="content/Java.svg" alt="" class="h-20">
-                <img src="content/Microsoft.svg" alt="" class="h-20">
-                <img src="content/Unity.svg" alt="" class="h-20">
+            <div class="flex flex-wrap place-content-around pt-16 pb-20 gap-x-10 gap-y-20 px-10">
+                <img src="content/Python.svg" alt="" class="h-20 flex-shrink-0 ">
+                <img src="content/Csharp.svg" alt="" class="h-20 flex-shrink-0 ">
+                <img src="content/Java.svg" alt="" class="h-20 flex-shrink-0 ">
+                <img src="content/Microsoft.svg" alt="" class="h-20 flex-shrink-0 ">
+                <img src="content/Unity.svg" alt="" class="h-20 flex-shrink-0 ">
             </div>
         </div>
             
@@ -50,10 +51,17 @@
             <h2>p1</h2>
             <h2>p2</h2>
         </div> -->
-
     </div>
         
-       
+    <footer class="bg-gray-900 grid grid-cols-3 py-10 px-20">
+        <h1 class="col-start-2 text-gray-300 text-center font-light">
+            &copy Thomas Duffin 2021
+        </h1>
+        
+        <a href="https://github.com/TDuffinNTU" class=" col-start-3 sm:place-self-end place-self-center">
+            <img src="content/github.svg" alt="" class="h-5">
+        </a>
+    </footer>  
             
             
                
