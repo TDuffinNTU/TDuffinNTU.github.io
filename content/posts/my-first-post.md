@@ -9,7 +9,7 @@ TocOpen: false
 draft: false # False to show in prod! 
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Hello, world!"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
