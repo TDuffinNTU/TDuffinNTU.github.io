@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2024 13:53:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 03 Mar 2024 13:53:52 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Hello, world! Finally, I&amp;rsquo;ve decided to do Something with this darned github.io instance.
+I&amp;rsquo;m using Hugo, since I honestly don&amp;rsquo;t need anything other than markdown and static site stuff anyway. Hopefully this&amp;rsquo;ll become a useful resource for myself and others as time goes on. I need a place to document cool stuff I do, and how I approach certain problems I never find the answer to online :^) Thank!</description>
+    </item>
+  </channel>
+</rss>
