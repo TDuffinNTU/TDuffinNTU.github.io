@@ -1,5 +1,5 @@
 ---
-title: 'Getting Start With Hugo'
+title: 'Getting Started With Hugo'
 date: 2024-03-03T19:53:49Z
 tags: ["programming", "hugo"]
 author: "Me"

@@ -2,7 +2,8 @@ baseURL: https://tduffinntu.github.io
 languageCode: en-gb
 theme: PaperMod
 title: TDuffinNTU at Github
-paginate: 5
+pagination:
+  pagerSize: 5
 menus:
   main:
     - name: Home
