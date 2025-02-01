@@ -38,5 +38,6 @@ Coming toward the end of 2019, I had already spent a few months working with Aut
 With univesity being an absolute slog on my mental health at this point, I was struggling to keep up appearances in seminars. As such, when it came to this project, I had to keep things as simple as I could whilst I crammed everything else in last minute. 
 
 # The Models
+The vague theme I had at the time was "plants". I enjoyed the seminars I had with making some pretty snazzy 
 
 # Conclusion
