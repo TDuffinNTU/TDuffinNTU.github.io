@@ -1,5 +1,5 @@
 ---
 title: "Search"
-placeholder: Trying to get this working...
+placeholder: Search for a post!
 layout: "search"
 ---

@@ -6,13 +6,13 @@ pagination:
   pagerSize: 5
 menus:
   main:
-    - name: Home
+    - name: 🏠 Home
       url: /
       weight: 10
-    - name: Search
+    - name: 🔍 Search
       url: /search
       weight: 20
-    - name: Github
+    - name: 🐙 Github
       url: https://github.com/TDuffinNTU
       weight: 30
 outputs: 
