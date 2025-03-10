@@ -31,9 +31,11 @@ cover:
 I've probably tried making my own website a dozen times in the past. Maybe more. I've probably tried every possible technology in some shape or form over the years...
 
 ### PowerPoint
+
 Good god. Powerpoint. ICT GCSE as a weird time, and I'm convinced this was just so our teacher didn't have to bother teaching us how to make a .txt document into .html
 
 ### Wordpress
+
 ![wordpress](images/wordpress.png)
 
  I actually did have a fun time hacking together some fancy javascript to make this map working, but  as you can see from the screenshot, I never got it to look... not shit, the moment you try and make the layout responsive.
@@ -41,21 +43,27 @@ Good god. Powerpoint. ICT GCSE as a weird time, and I'm convinced this was just 
 You do *not* want to look at the rest of the code. It's cursed. Along with the rest of Wordpress honestly.
 
 ### Wix
+
 Buggier, more sluggish and less configurable than wordpress, all while contributing to Genocide. What more could you want?
 
 ### Javascript frameworks (yuck)
+
 I don't think I ever got anything decent working here lmao. Because what you want when you're trying to make a blog is a gigabyte of NPM packages and hours sifting through boilerplate just to fail to get the example project running!
 
 ### Straight up rawdogging it
+
 What's the absolute opposite of overengineered Javascript frameworks? Over*engineering* your *own* javascript framework!
 
 ### Blazor
+
 I had a lot of fun with this, but I cannot in good conscience let anyone knowingly use C#. I can't, I *won't*.
 
 ### Flutter
+
 I like Flutter, I would even say I *love* Flutter, but it's just not a website or blogging platform, at least without far too much tinkering.
 
 ### Enter Hugo
+
 I quite literally searched "static site generation" and picked the first one that I thought was cool. I'm a big fan of only needing markdown for everything, and how quickly I was able to get it working on github pages.
 
 I found [PaperMod](https://github.com/adityatelange/hugo-PaperMod/) which made the setup process even better -- I've already got cross-site search and a beautiful default theme, all without having to bother with much beyong some YAML configuration.
@@ -87,7 +95,3 @@ There's something so nice with how straightforward things are with Hugo -- becau
 It's got its limitations, like how I can't bulk-update post templates, but you don't *need* that for the most part. We'll see.
 
 Good job, Hugo! *pat pat*
-
-
-
-
