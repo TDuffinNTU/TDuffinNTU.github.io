@@ -1,5 +1,5 @@
 ---
-title: 'Nextcloud Truenas Scale'
+title: 'Setting Nextcloud on TrueNAS SCALE'
 date: 2025-02-16T14:05:28Z
 tags: ["nextcloud", "selfhosting", "truenas", "docker",]
 author: "Me"
@@ -22,11 +22,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "images/header.png" # image path/url
+    alt: "header image" # alt text
+    caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 # The Problem
 
@@ -119,7 +119,7 @@ Expect this to take a *long* time, it's going to unrar, process, and log each fi
 
 You might get some errors in the nextcloud log, but try not to worry as some of them will be due to Nextcloud file processing beating the database into a fine pulp. In my experience of a 50GB+ user import, it didn't result in lost data (but I'd still recommend you manually verify before deleting your old users!).
 
-### Other steps
+### Other steps and further reading
 
 Whilst imports was a big one, I did a lot of other stuff to remove warnings, improve reporting, and hopefully performance & security.
 
