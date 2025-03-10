@@ -1,7 +1,7 @@
 ---
 title: 'Setting Nextcloud on TrueNAS SCALE'
 date: 2025-02-16T14:05:28Z
-tags: ["nextcloud", "selfhosting", "truenas", "docker",]
+tags: ["nextcloud", "selfhosting", "truenas", "docker", "linux",]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
