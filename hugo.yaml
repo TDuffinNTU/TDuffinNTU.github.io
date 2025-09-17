@@ -25,7 +25,7 @@ params:
     homeInfoParams:
         title: S'mae, byd!
         content: >-
-            This is my little website for showcasing things I'm working on, to yapp 
+            This is my little website for showcasing things I'm working on, to yap 
             incessantly about things I care about, or just to document stuff that might be useful to myself later.
             
             
@@ -49,10 +49,44 @@ params:
             
             &nbsp;
             
+            ## General
             
-            [🏫 University projects](tags/university/) | [📢 Devlogs](tags/devlog/) | [👓 C#](tags/csharp/) | [🐦 Flutter](tags/flutter/) | [🎯 Dart](tags/dartlang/) | [🎮 Gamedev](tags/gamedev/) | [🐧 Linux](tags/linux)
+            [📰 Press](tags/press)
+
+
+
+            [🏫 University projects](tags/university/) 
+
+
+          
+            [📢 Devlogs](tags/devlog/) 
             
-           
+            
             &nbsp;
+
+
+            ## Languages
+
+            [👓 C#](tags/csharp/) 
+
+
+            [🐦 Flutter](tags/flutter/) 
+
+
+            [🎯 Dart](tags/dartlang/)
+
+            
+            &nbsp;
+
+            ## Misc.
+
+            [🎮 Gamedev](tags/gamedev/)
+
+
+            [🐧 Linux](tags/linux)
+           
+
+            &nbsp;
+
 
             # Articles 👇
