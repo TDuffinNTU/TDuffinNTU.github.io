@@ -19,7 +19,7 @@
         {
             "label": "Open firefox",
             "type": "shell",
-            "command": "firefox localhost:1313 &",
+            "command": "firefox localhost:1313",
             "problemMatcher": [],
             "icon": {"id": "window"},
             "presentation": {
