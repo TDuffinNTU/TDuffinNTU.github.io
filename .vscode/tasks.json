@@ -7,6 +7,39 @@
             "command": "git submodule update --remote --merge",
             "problemMatcher":[],
             "icon": {"id": "arrow-up"}
+        },
+        {
+            "label": "Hugo Serve",
+            "type": "shell",
+            "command": "hugo serve -D -w",
+            "problemMatcher": [],
+            "icon": {"id": "debug-alt"},
+            "isBackground": true
+        },
+        {
+            "label": "Open firefox",
+            "type": "shell",
+            "command": "firefox localhost:1313 &",
+            "problemMatcher": [],
+            "icon": {"id": "window"},
+            "presentation": {
+                "echo": false,
+                "reveal": "never",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": false,
+                "clear": true
+            }
+        },
+        {
+            "label": "Load all",
+            "type": "shell",
+            "command": "echo Hello",
+            "problemMatcher": [],
+            "icon": {"id": "debug-start"},
+            "dependsOn":["Hugo Serve","Open firefox"]
         }
-    ]
+    
+    ],
+    
 }
