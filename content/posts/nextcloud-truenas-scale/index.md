@@ -12,7 +12,7 @@ comments: false
 description: "Getting to grips with selfhosting everyone's favourite fileserver."
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
+
 hideSummary: false
 searchHidden: false # False to enable search!
 ShowReadingTime: true

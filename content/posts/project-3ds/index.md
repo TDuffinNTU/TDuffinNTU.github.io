@@ -12,7 +12,7 @@ description: "A look back at one of my favourite, if not frustrating, projects."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
+
 hideSummary: false
 searchHidden: false # False to enable search!
 ShowReadingTime: true

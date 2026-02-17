@@ -13,7 +13,6 @@ description: "My adventure of picking up Hugo on a random Sunday afternoon.."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: false # False to enable search!
 ShowReadingTime: true

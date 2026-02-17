@@ -12,7 +12,7 @@ comments: false
 description: "Nottingham Trent University (ISRG) Press"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
+
 hideSummary: false
 searchHidden: false # False to enable search!
 ShowReadingTime: true

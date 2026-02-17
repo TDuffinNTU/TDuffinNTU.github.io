@@ -12,4 +12,4 @@ Written in markdown with [hugo](https://github.com/hugow) and [papermod](https:/
 
 ## Tips
 
-VSCode users can utilises the tasks for quickly bumping he Papermod version, serving the website, and launching a firefox tab for debugging.
+VSCode users can utilise the tasks for quickly bumping the Papermod version, serving the website, and launching a firefox tab for debugging.

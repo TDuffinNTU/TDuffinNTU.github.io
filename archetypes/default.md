@@ -12,7 +12,6 @@ comments: false
 description: "Desc Text."
 disableHLJS: true # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: true # False to enable search!
 ShowReadingTime: true
