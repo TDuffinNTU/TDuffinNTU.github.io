@@ -12,4 +12,4 @@ Written in markdown with [hugo](https://github.com/hugow) and [papermod](https:/
 
 ## Tips
 
-VSCode users can utilise the tasks for quickly bumping the Papermod version, serving the website, and launching a firefox tab for debugging.
+./scripts contains some useful scripts for stuff like updating hugo and papermod, and creating new posts. 

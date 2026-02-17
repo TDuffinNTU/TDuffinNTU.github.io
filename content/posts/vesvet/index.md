@@ -1,7 +1,7 @@
 ---
 title: 'VESVET Project Highlights - WordJump'
 date: 2025-09-17T22:25:53+01:00
-tags: ["press","university", "c#", "gamedev"]
+tags: ["press","university", "csharp", "gamedev"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
