@@ -7,4 +7,4 @@ git submodule update --remote --merge
 HUGO_CURRENT_VERSION=$(hugo version | grep -oP '\d+\.\d+\.\d+' | head -1)
 
 # Update HUGO_VERSION in workflow.
-sed -i "s/HUGO_VERSION=.*/HUGO_VERSION=$HUGO_CURRENT_VERSION/" .github/workflows/hugo.yml
+sed -i "s/HUGO_VERSION: .*/HUGO_VERSION: $HUGO_CURRENT_VERSION/" .github/workflows/hugo.yml
